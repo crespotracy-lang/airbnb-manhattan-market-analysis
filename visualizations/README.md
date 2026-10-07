@@ -1,6 +1,6 @@
 # Visualizations
 
-Add screenshots of the most important Excel analyses here, such as:
+Most important Excel analyses here, such as:
 
 1. Top 10 neighborhoods by recent reviews
 2. Bedroom distribution
