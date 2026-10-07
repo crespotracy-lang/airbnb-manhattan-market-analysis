@@ -41,6 +41,20 @@ Compared neighborhood demand with bedroom preferences to identify combinations o
 ### 4. Revenue Analysis
 Used calendar pricing and availability information to estimate annual revenue and identify listings with attractive revenue potential.
 
+## Visualizations
+
+### Top 10 Neighborhoods
+![Top 10 Manhattan Neighborhoods](visualizations/top_10_neighborhoods.png)
+
+### Bedroom Mix
+![Airbnb Listings by Number of Bedrooms](visualizations/bedroom_mix.png)
+
+### Neighborhood & Bedroom Mix
+![Bedroom Mix Across Top 10 Neighborhoods](visualizations/neighborhood_bedroom_mix.png)
+
+### Estimated Annual Revenue
+![Top 10 Listings by Estimated Annual Revenue](visualizations/top_10_annual_revenue.png)
+
 ## Key Findings
 
 - The analysis identified the highest-demand Manhattan neighborhoods using recent review activity.
